@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="What do you want eat?" />
+        <Header title="What do you want eat? - a project by Raghav and Sachin" />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
